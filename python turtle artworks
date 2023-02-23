@@ -1,0 +1,3 @@
+from sketchpy import library as lib 
+obj = lib.__()
+obj.draw()
